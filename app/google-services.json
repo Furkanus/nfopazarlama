@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "527536524625",
+    "firebase_url": "https://nfopazar.firebaseio.com",
+    "project_id": "nfopazar",
+    "storage_bucket": "nfopazar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527536524625:android:f7f0b7cc8f7508715e1770",
+        "android_client_info": {
+          "package_name": "com.bulenthanci.nfopazar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527536524625-bsk63lm0bl3c2jr4lb8u77gm1u4hfrci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bulenthanci.nfopazar",
+            "certificate_hash": "3bc251a08a32bb93a84a59b4ea5d9d8a53f89ea6"
+          }
+        },
+        {
+          "client_id": "527536524625-hrnqnf0858ad78rq99n7lf7918loalb9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bulenthanci.nfopazar",
+            "certificate_hash": "ec80d55137df1eb3d3638832f33ca176c75097f7"
+          }
+        },
+        {
+          "client_id": "527536524625-ps9vdod11d5f47mj1ogqkh48ehi4mc97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK-JIJDU6qBPaeBlZRqZLCh2wLV6BgxTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527536524625-ps9vdod11d5f47mj1ogqkh48ehi4mc97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
